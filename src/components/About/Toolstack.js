@@ -5,6 +5,8 @@ import {
   SiPostman,
   SiGithub,
   SiOpenai,
+  SiGooglechrome,
+  SiFirefoxbrowser
 } from "react-icons/si";
 
 function Toolstack() {
@@ -21,6 +23,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiOpenai />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGooglechrome />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirefoxbrowser />
       </Col>
     </Row>
   );

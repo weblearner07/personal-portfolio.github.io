@@ -19,22 +19,24 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I love learning and building new stuffs, Hence I am  developing some FrontEnd with new ideas.., I think… 🤷‍♂️
+            This portfolio is a showcase of my projects. I love building creative and efficient solutions that solve real-world problems.
               <br />
-              <br />I am fluent in 
+    
               <i>
-                <b className="purple"> Javascript and Python </b>
+                <b className="purple"> Enthusiastic and motivated fresher eager to learn, grow, and contribute with a passion for innovation and problem-solving🚀</b>
               </i>
+              
               <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
+              Feel free to explore my work, check out my code, and connect with me for collaborations or exciting opportunities. Let’s build something amazing together!
+
+ &nbsp;
+              {/* <i>
                 <b className="purple">Frontend Web designs </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Machine Learning.
                 </b>
-              </i>
+              </i> */}
               <br />
               <br />
             </p>

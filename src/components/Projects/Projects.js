@@ -25,7 +25,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Attendance Tracking System"
-              description="An attendance tracking system for staff/admin build with Python,Google Cloud ,Gmail API. Have features which allows user to track,update students attendance , send mail to students with low attendance"
+              description="An attendance tracking system for staff/admin build with Python,Google Cloud ,Gmail API. Have features which allows user to track,update students attendance , send mail to students with low attendance &nbsp;&nbsp;&nbsp;"
               ghLink="https://github.com/weblearner07/Attendance_Tracking_System"
               demoLink="https://github.com/weblearner07/Attendance_Tracking_System"
             />
