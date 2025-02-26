@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/personal-portfolio.github.io/static/css/main.b135572e.css",
-    "main.js": "/personal-portfolio.github.io/static/js/main.5d23d4f6.js",
+    "main.js": "/personal-portfolio.github.io/static/js/main.25df758b.js",
     "static/js/415.4d6acbeb.chunk.js": "/personal-portfolio.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/personal-portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/textutil.jpg": "/personal-portfolio.github.io/static/media/textutil.48590ecbe5b2dbd599a6.jpg",
     "static/media/home-main.svg": "/personal-portfolio.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/personal-portfolio.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/prashantnophoto_TCS_resume.pdf": "/personal-portfolio.github.io/static/media/prashantnophoto_TCS_resume.a02b45b31d45386cc1d5.pdf",
     "static/media/ats.jpg": "/personal-portfolio.github.io/static/media/ats.620453e93a99e6eb46a2.jpg",
-    "static/media/prashantnophoto_TCS_resume.pdf": "/personal-portfolio.github.io/static/media/prashantnophoto_TCS_resume.a75804ec639a643fa35b.pdf",
     "static/media/home-bg.jpg": "/personal-portfolio.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/walletsite.jpg": "/personal-portfolio.github.io/static/media/walletsite.528a160ab55fb5a17a0b.jpg",
     "static/media/avatar.svg": "/personal-portfolio.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/personal-portfolio.github.io/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/personal-portfolio.github.io/index.html",
     "main.b135572e.css.map": "/personal-portfolio.github.io/static/css/main.b135572e.css.map",
-    "main.5d23d4f6.js.map": "/personal-portfolio.github.io/static/js/main.5d23d4f6.js.map",
+    "main.25df758b.js.map": "/personal-portfolio.github.io/static/js/main.25df758b.js.map",
     "415.4d6acbeb.chunk.js.map": "/personal-portfolio.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/personal-portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b135572e.css",
-    "static/js/main.5d23d4f6.js"
+    "static/js/main.25df758b.js"
   ]
 }
